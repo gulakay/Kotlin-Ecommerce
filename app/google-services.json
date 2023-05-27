@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958327429212",
+    "project_id": "teknomarket-ecbe3",
+    "storage_bucket": "teknomarket-ecbe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958327429212:android:9eeea54acf642e55c5ee99",
+        "android_client_info": {
+          "package_name": "com.gulakay.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958327429212-cbibirf000p6uhh0f8afjallr7ggqb1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJMFQySyb-6wnCLCMCN2OE1KElMArkAK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958327429212-cbibirf000p6uhh0f8afjallr7ggqb1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

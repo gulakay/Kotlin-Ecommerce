@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Ürünler"
+        android:id="@+id/productsFragment"
+        android:icon="@drawable/ic_baseline_apps_24"
+
+        ></item>
+
+    <item
+        android:title="Sepet"
+        android:id="@+id/basketFragment"
+        android:icon="@drawable/ic_baseline_shopping_basket_24"
+
+        ></item>
+</menu>
